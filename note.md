@@ -37,8 +37,8 @@
 
 - *git checkout *id*: nếu muốn quay trở lại một thời điểm
 
-- *git checkout {branch name}*: quay trở lại về thời điểm hiện tại
+- *git checkout {branch name}*: quay trở lại về thời điểm hiện tại, ngoài ra cũng mang tác dụng là đổi branch
 
 - *git branch*: kiểm tra cành hiện tại
 
-- *git checkout -b (tên branch)*: tạo một branch mới 
+- *git checkout -b {tên branch}*: tạo một branch mới 
