@@ -42,3 +42,7 @@
 - *git branch*: kiểm tra cành hiện tại
 
 - *git checkout -b (tên branch)*: tạo một branch mới
+
+- *git merge {tên branch}*: gộm branch kia vào branch hiện tại, khi ta thay đổi branch quay lại master thì file contact bị mất vì nó được tạo ở branch dev => Cần gộp branch lại
+
+- *git branch -d {tên branch}* : xoá branch
