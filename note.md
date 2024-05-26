@@ -5,6 +5,7 @@
 
 **Branch** (Cành): Cành mặc định luôn là master (hình như bây giờ đổi tên thành main), ví dụ trên một dự án có nhiều chức năng khác nhau, mỗi chức năng sẽ được chia ra một branch => Tổng hợp các brach để hoàn thành dự án đó.
 
+**Conflict**: Xung đột
 # Commands - Lệnh
 
 - *git init*: Dễ hiểu là dự án của chúng ta sẽ sử dụng được git khi ta gõ dòng lệnh này (trên cmd trong VSCODE - Ctrl + J)
