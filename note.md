@@ -41,4 +41,4 @@
 
 - *git branch*: kiểm tra cành hiện tại
 
-- *git checkout -b (tên branch)*: tạo một branch mới 
+- *git checkout -b (tên branch)*: tạo một branch mới
