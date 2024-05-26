@@ -3,7 +3,7 @@
 **Repository** (Repo): Tiếng anh là cái kho, nhưng trong lập trình, nó là thư mục dự án của chúng ta. Hiện tại thư mục dự án của chúng ta là GITHUB_VN
 => Đây là một Repo
 
-**Branch** (Cành): Cành mặc định luôn là master (hình như bây giờ đổi tên thành main)
+**Branch** (Cành): Cành mặc định luôn là master (hình như bây giờ đổi tên thành main), ví dụ trên một dự án có nhiều chức năng khác nhau, mỗi chức năng sẽ được chia ra một branch => Tổng hợp các brach để hoàn thành dự án đó.
 
 # Commands - Lệnh
 
@@ -37,7 +37,7 @@
 
 - *git checkout *id*: nếu muốn quay trở lại một thời điểm
 
-- *git checkout {branch name}*: quay trở lại về thời điểm hiện tại
+- *git checkout {branch name}*: quay trở lại về thời điểm hiện tại, ngoài ra cũng mang tác dụng là đổi branch
 
 - *git branch*: kiểm tra cành hiện tại
 
