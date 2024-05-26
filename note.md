@@ -1,7 +1,9 @@
 # Terms - Danh từ
 
-Repository (Repo): Tiếng anh là cái kho, nhưng trong lập trình, nó là thư mục dự án của chúng ta. Hiện tại thư mục dự án của chúng ta là GITHUB_VN
+**Repository** (Repo): Tiếng anh là cái kho, nhưng trong lập trình, nó là thư mục dự án của chúng ta. Hiện tại thư mục dự án của chúng ta là GITHUB_VN
 => Đây là một Repo
+
+**Branch** (Cành): Cành mặc định luôn là master (hình như bây giờ đổi tên thành main)
 
 # Commands - Lệnh
 
@@ -34,3 +36,9 @@ Repository (Repo): Tiếng anh là cái kho, nhưng trong lập trình, nó là 
 
 
 - *git checkout *id*: nếu muốn quay trở lại một thời điểm
+
+- *git checkout {branch name}*: quay trở lại về thời điểm hiện tại
+
+- *git branch*: kiểm tra cành hiện tại
+
+- *git checkout -b (tên branch)*: tạo một branch mới 
