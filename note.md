@@ -55,4 +55,6 @@
 
 - *git push + {link} + {tên branch}*: đẩy lên local repo lên remote repo
 
-- *git remote add + {link}*: đặt tên cho lin
+- *git remote add + {link}*: đặt tên cho link
+
+- *git push*: khi đã clone về thì k cần link mà push lên luôn
