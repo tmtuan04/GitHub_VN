@@ -7,6 +7,10 @@
 
 **Conflict**: Xung đột
 
+**Local**: tất cả những gì trên máy tính của ta (hình ảnh, file, ...) => local
+
+**Remote**: ngược lại của local, nó k nằm ở máy ta mà nằm ở một server nào đó
+
 # Commands - Lệnh
 
 - *git init*: Dễ hiểu là dự án của chúng ta sẽ sử dụng được git khi ta gõ dòng lệnh này (trên cmd trong VSCODE - Ctrl + J)
@@ -48,3 +52,5 @@
 - *git merge {tên branch}*: gộm branch kia vào branch hiện tại, khi ta thay đổi branch quay lại master thì file contact bị mất vì nó được tạo ở branch dev => Cần gộp branch lại
 
 - *git branch -d {tên branch}* : xoá branch
+
+- *git push + {link} + {tên branch}*: đẩy lên local repo lên remote repo
