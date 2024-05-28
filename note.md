@@ -60,3 +60,7 @@
 - *git push*: khi đã clone về thì k cần link mà push lên luôn
 
 - *git push -u origin + {tên branch}*: đẩy branch từ local lên remote
+
+- *git fetch origin*: lấy branch từ remote về local
+
+- *git checkout -b {tên branch} + origin/{tên branch}*
