@@ -54,3 +54,5 @@
 - *git branch -d {tên branch}* : xoá branch
 
 - *git push + {link} + {tên branch}*: đẩy lên local repo lên remote repo
+
+- *git remote add + {link}*: đặt tên cho lin
