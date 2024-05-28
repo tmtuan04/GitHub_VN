@@ -58,3 +58,5 @@
 - *git remote add + {link}*: đặt tên cho link
 
 - *git push*: khi đã clone về thì k cần link mà push lên luôn
+
+- *git push -u origin + {tên branch}*: đẩy branch từ local lên remote
